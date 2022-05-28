@@ -1,0 +1,8 @@
+.the-div-to-target {
+    display: flex;
+    flex-direction: row;
+}
+
+.target-2 {
+    max-width: 100px;
+}
